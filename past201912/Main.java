@@ -1,4 +1,4 @@
-package exam;
+package past201912;
 
 import java.util.Scanner;
 
